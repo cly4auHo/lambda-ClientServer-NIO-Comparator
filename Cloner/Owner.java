@@ -2,7 +2,7 @@ package courses;
 
 import java.io.Serializable;
 
-public class Owner implements Serializable,Cloneable {
+public class Owner implements Serializable , Cloneable {
     private String name;
 
     public Owner() {
