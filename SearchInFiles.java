@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class RlyMain {
+public class SearchInFiles {
     public static void main(String[] args) {
 
         while (true) {
