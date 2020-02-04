@@ -3,7 +3,6 @@ package courses;
 public class Lambda {
     public static void main(String[] args) {
 
-
         MyInt my = new MyInt() {
             @Override
             public void someMethod() {
