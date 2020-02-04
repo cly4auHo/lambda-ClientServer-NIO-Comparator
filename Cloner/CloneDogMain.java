@@ -8,10 +8,6 @@ public class CloneDogMain {
 
         Dog dog = new Dog("Alex",3,"buf");
 
-
-
-
-
        /* ByteArrayOutputStream baos = new ByteArrayOutputStream();
         ObjectOutputStream oos = new ObjectOutputStream(baos);
         oos.writeObject(dog);
